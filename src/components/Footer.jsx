@@ -128,6 +128,7 @@ const Footer = () => {
             <li><Link to="about" smooth={true} duration={500}>About Us</Link></li>
             <li><Link to="services" smooth={true} duration={500}>Our Services</Link></li>
             <li><Link to="testimonials" smooth={true} duration={500}>Testimonials</Link></li>
+            <li><Link to="features" smooth={true} duration={500}>HomeNurse Features</Link></li>
             <li><Link to="contact" smooth={true} duration={500}>Contact</Link></li>
           </FooterLinks>
         </Column>
@@ -139,7 +140,6 @@ const Footer = () => {
             <li>Elder Care</li>
             <li>Post-Surgery Care</li>
             <li>Chronic Disease Management</li>
-            <li><Link to="features" smooth={true} duration={500}>HomeNurse Features</Link></li>
           </FooterLinks>
         </Column>
 

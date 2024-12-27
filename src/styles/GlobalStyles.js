@@ -3,10 +3,10 @@ import { createGlobalStyle } from 'styled-components';
 export const GlobalStyles = createGlobalStyle`
   :root {
     --color-background: #FFF4E6;
-    --color-primary: #FF7E6B;
-    --color-secondary: #009688;
+    --color-primary: #FF6B35;
+    --color-secondary: #2C2320;
     --color-text: #2C2C2C;
-    --color-accent: #FFF9C4;
+    --color-accent: #FF6B35;
     --font-heading: 'Montserrat', sans-serif;
     --font-body: 'Roboto', sans-serif;
   }
