@@ -127,7 +127,6 @@ const Footer = () => {
           <FooterLinks>
             <li><Link to="about" smooth={true} duration={500}>About Us</Link></li>
             <li><Link to="services" smooth={true} duration={500}>Our Services</Link></li>
-            <li><Link to="features" smooth={true} duration={500}>HomeNurse Features</Link></li>
             <li><Link to="testimonials" smooth={true} duration={500}>Testimonials</Link></li>
             <li><Link to="contact" smooth={true} duration={500}>Contact</Link></li>
           </FooterLinks>
